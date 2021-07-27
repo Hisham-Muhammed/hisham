@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Hisham-Muhammed/Sophia-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Hisham-Muhammed/hisham)
      </div>
 <br>
 <br >
